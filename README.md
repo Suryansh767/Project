@@ -8,10 +8,6 @@ The dataset used for training can be found [here](https://huggingface.co/dataset
 You can even use this google colab notebook for making predictions [click here](https://colab.research.google.com/drive/1aibR06TrFGnt-TPmyIRDD2-8eT7PU5Kl#scrollTo=rgE3QbiTFIMQ)<br/>
 For the entire code with model file also available checkout the huggingface repository [here](https://huggingface.co/flax-community/gpt2-rap-lyric-generator/tree/main)<br/>
 
-### Files in the repository:-<br/>
-1) run_clm_flax.py contains the training script<br/>
-2) run.sh can be used to run the training script and the hyperparameters can be directly specified there<br/>
-3) genius.py contains the file to download songs from genius.com<br/>
 
 ### An example of how demo works <br/>
 ![alt text](https://github.com/AnantShankhdhar/AI-Rap-Lyric-Generator/blob/main/rap-image.png)<br/>
